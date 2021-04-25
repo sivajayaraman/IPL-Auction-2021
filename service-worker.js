@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ipl-auction-2021/precache-manifest.ead6ab72df2cab7f48edf358d3854706.js"
+  "/IPL-Auction-2021/precache-manifest.1d22333efc6b75e672102891dcf6fedc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ipl-auction-2021/index.html", {
+workbox.routing.registerNavigationRoute("/IPL-Auction-2021/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
