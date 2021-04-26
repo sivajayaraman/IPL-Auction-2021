@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IPL-Auction-2021/precache-manifest.7ba9545b534722be1128fd278a6ab4da.js"
+  "/IPL-Auction-2021/precache-manifest.8ac4bc371bebbc4aa00100c5b4ac2acd.js"
 );
 
 workbox.clientsClaim();
