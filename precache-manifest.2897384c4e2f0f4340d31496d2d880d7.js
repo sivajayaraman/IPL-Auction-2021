@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "43443d77d8b308fef907",
+    "revision": "5445b300aa0fc29206fa",
     "url": "/IPL-Auction-2021/static/css/main.557b4727.chunk.css"
   },
   {
-    "revision": "43443d77d8b308fef907",
-    "url": "/IPL-Auction-2021/static/js/main.43443d77.chunk.js"
+    "revision": "5445b300aa0fc29206fa",
+    "url": "/IPL-Auction-2021/static/js/main.5445b300.chunk.js"
   },
   {
     "revision": "731a018946372425e486",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/IPL-Auction-2021/static/js/2.8b7c0ace.chunk.js"
   },
   {
-    "revision": "4a827d78e4b4da37d7005c96b209a981",
+    "revision": "4c4a33d69893e032c15eaaa938b68106",
     "url": "/IPL-Auction-2021/index.html"
   }
 ];
